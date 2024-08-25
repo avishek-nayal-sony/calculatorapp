@@ -35,7 +35,7 @@ func main() {
             fmt.Printf("%.2f / %.2f = %.2f\n", num1, num2, result)
         }
     default:
-        fmt.Println("Invalid operator")
+        fmt.Println("Invalid operator with sign")
     }
 }
 
